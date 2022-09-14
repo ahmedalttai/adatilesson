@@ -29,6 +29,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  intl: ^0.17.0
+  hive: ^2.2.3
+  hive_flutter:
+  flutter_local_notifications:
+  flutter_native_timezone: ^2.0.0
 
 
   # The following adds the Cupertino Icons font to your application.
