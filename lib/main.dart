@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:intl/intl.dart';
 
+import 'local_notification_service.dart';
+
 const habitsBox = 'habits';
 const dailyHabitsBox = 'dailyHabits';
 
